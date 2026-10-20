@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-10-19 21:04:26",
+    "sender": "irs@tax-refund.com",
+    "subject": "IRS Tax Refund Alert",
+    "label": "PHISHING",
+    "subtype": "CUSTOM",
+    "note": "Cataloged as PHISHING"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-10-19 21:23:09",
+    "sender": "noreply-gate2027@iitm.ac.in",
+    "subject": "GATE 2027 Update",
+    "label": "HAM",
+    "subtype": "NOT_PHISHING",
+    "note": "Cataloged via UI as HAM"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-10-19 21:24:07",
+    "sender": "ckyc@ckycindia.in",
+    "subject": "Deactivate Notification - CKYCRR",
+    "label": "HAM",
+    "subtype": "NOT_PHISHING",
+    "note": "Cataloged via UI as HAM"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-10-19 21:24:57",
+    "sender": "news@stockrover.com",
+    "subject": "Reviewing Financial Statements in Stock Rover",
+    "label": "SPAM",
+    "subtype": "NOT_PHISHING",
+    "note": "Cataloged via UI as SPAM"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-10-19 21:25:32",
+    "sender": "exclusive-deals@bestmarketingoffers24.biz",
+    "subject": "Claim Your 85% Discount Voucher - Limited Quantity Available!",
+    "label": "SPAM",
+    "subtype": "NOT_PHISHING",
+    "note": "Cataloged via UI as SPAM"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-10-19 21:25:42",
+    "sender": "service-security@paypa1-update-center.com",
+    "subject": "URGENT: Your account has been suspended! Verify your credentials",
+    "label": "PHISHING",
+    "subtype": "GENERIC_PHISHING",
+    "note": "Cataloged via UI as PHISHING"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-10-19 21:35:09",
+    "sender": "payments.active@gmail.com",
+    "subject": "Immediate payment request",
+    "label": "PHISHING",
+    "subtype": "GENERIC_PHISHING",
+    "note": "Cataloged via UI as PHISHING"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-10-20 11:30:18",
+    "sender": "hr@company-payroll.net",
+    "subject": "Urgent Payroll Correction",
+    "label": "PHISHING",
+    "subtype": "FINANCIAL_PHISHING",
+    "note": "Zero-shot test campaign"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-10-20 11:35:41",
+    "sender": "noreply-gate2027@iitm.ac.in",
+    "subject": "Status of your GATE-2027 application",
+    "label": "HAM",
+    "subtype": "NOT_PHISHING",
+    "note": "GATE application status"
+  }
+]

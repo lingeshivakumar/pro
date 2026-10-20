@@ -1,5 +1,8 @@
 # Heavy outputs & models (downloaded separately from Kaggle)
-output/
+output/*
+!output/memory/
+!output/memory/**
+output/test_mem/
 
 # Python bytecode & cache
 __pycache__/
